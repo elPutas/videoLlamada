@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>855755453045-cp94s0mev3ag1vkrkd65mbi4p8vat5e8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855755453045-cp94s0mev3ag1vkrkd65mbi4p8vat5e8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>855755453045-0j31jdasd6r2vd18e5tagtnnvjgaohkm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUUjblW5kC7rpEGz0SJsBInAvmr5FUkp0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855755453045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.colegium.videoLlamada</string>
+	<key>PROJECT_ID</key>
+	<string>kidzionic</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kidzionic.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855755453045:ios:23657bbabda2f895583e3c</string>
+	<key>DATABASE_URL</key>
+	<string>https://kidzionic.firebaseio.com</string>
+</dict>
+</plist>
